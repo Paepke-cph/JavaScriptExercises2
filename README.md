@@ -1,4 +1,4 @@
-# JavaScriptExercises2
+# Jokes
 
 ## Links for this week assignment:
 
