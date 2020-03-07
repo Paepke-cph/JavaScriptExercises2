@@ -1,6 +1,4 @@
-# JavaScript Exercises
-
-## Links for this week assignment:
+# Links for this week assignment:
 
 ## Callbacks and more:
 * ![JavaScript Exercises]("https://github.com/Paepke-cph/JavaScriptExercises2")
